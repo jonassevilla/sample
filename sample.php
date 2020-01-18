@@ -1,3 +1,3 @@
 <div>
-echo "I love philippines";
+echo "I love Singapore";
 </div>
